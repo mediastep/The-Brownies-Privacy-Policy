@@ -76,8 +76,6 @@ Ngoài ra, thành viên có trách nhiệm thông báo kịp thời cho Nền t�
 
 – Trong trường hợp có yêu cầu của pháp luật: Nền tảng quản lý bán hàng đa kênh The Brownies có trách nhiệm hợp tác cung cấp thông tin cá nhân thành viên khi có yêu cầu từ cơ quan tư pháp bao gồm: Viện kiểm sát, tòa án, cơ quan công an điều tra liên quan đến hành vi vi phạm pháp luật nào đó của khách hàng. Ngoài ra, không ai có quyền xâm phạm vào thông tin cá nhân của thành viên. Thời gian lưu trữ thông tin Dữ liệu cá nhân của Thành viên sẽ được lưu trữ cho đến khi có yêu cầu hủy bỏ hoặc tự thành viên đăng nhập và thực hiện hủy bỏ. Còn lại trong mọi trường hợp thông tin cá nhân thành viên sẽ được bảo mật trên máy chủ của The Brownies. 
 
-Địa chỉ của đơn vị thu thập và quản lý thông tin cá nhân The Brownies trụ sở chính: Tầng 7, 136 Nguyễn Lân - Phương Liệt - Thanh Xuân - Hà Nội
-
 Email: hiendat1989@gmail.com
 
 Phương tiện và công cụ để người dùng tiếp cận và chỉnh sửa dữ liệu cá nhân của mình. Thành viên có quyền tự kiểm tra, cập nhật, điều chỉnh hoặc hủy bỏ thông tin cá nhân của mình bằng cách đăng nhập vào tài khoản và chỉnh sửa thông tin cá nhân hoặc yêu cầu The Brownies thực hiện việc này. 
